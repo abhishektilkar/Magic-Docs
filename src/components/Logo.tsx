@@ -1,7 +1,7 @@
+import { Karla } from 'next/font/google';
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import { Karla } from '@next/font/google';
 
 const karla = Karla({
   subsets: ['latin'],
